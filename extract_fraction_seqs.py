@@ -3,7 +3,7 @@
 '''
 @Author This script is developed by Ginsea Chen (ginseachen@hotmail.com) of CATAS
 @Descriptions You can use this script to exrtact a small number of sequences from a fasta and then produce a new fasta file
-@Infile The file with fasta formati
+@Infile The file with fasta format
 @Outfile The file with fasta format
 @numbers How many sequences you want to exract
 '''
